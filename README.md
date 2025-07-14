@@ -5,6 +5,5 @@ A network protocol that allows various IoT devices with Wi-Fi and Bluetooth capa
 - Raspberry Pi Pico W
 - ESP32-WROVER
 - ESP8266 
-- ESP32-S3-WROOM
-
+- ESP32-S3-WROOM N8R8
 
