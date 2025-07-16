@@ -6,4 +6,6 @@ A network protocol that allows various IoT devices with Wi-Fi and Bluetooth capa
 - ESP32-WROVER
 - ESP8266 
 - ESP32-S3-WROOM N8R8
+- ESP32-S-WROOM N16R8
+
 
