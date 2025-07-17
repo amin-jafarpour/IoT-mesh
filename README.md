@@ -6,6 +6,8 @@ Due to limited processoing power and memory capacity of IoT devices, present net
 1. Implementing a reliable network connection similar to TCP, but more customized towards IoT devices.
 2. Enforcing confidentiality, integrity, and non-repudiation smiliar to SSL, but more customized towards IoT devices. 
 3. IoT network mesh utilizing a combination of Bluetooth and IEEE 802.11.
+4. IoT hardware virtualization so PCs can run an IoT emulator appearing as a regular IoT devices to other IoT devices in the network mesh. 
+
 
 
 
