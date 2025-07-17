@@ -18,6 +18,7 @@ The following are the competencies/prerequisites need to work on this project:
 - A grasp of assembly and different processor architectures such as x86 and ARM.
 - A general knowledge of distributed computing. 
 - Access to generic IoT generic devices such as a raspberry Pi or an ESP32. 
+- Deep understanding of C and procedural programming.
 
 
 
