@@ -1,0 +1,27 @@
+CoAP over UDP
+MQTT-SN
+QUIC
+DTLS
+EDHOC
+OSCORE
+mbedTLS
+wolfSSL
+QEMU
+simavr
+OpenIoT-SDK
+gossip protocols.
+CBOR
+Protobuf
+MessagePack
+gRPC-lite
+ESP-IDF
+PlatformIO
+AES-GCM
+CBOR
+esp-mesh
+docker-microiot
+FlatBuffers
+gRPC
+Nanomsg
+RabbitMQ
+
