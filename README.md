@@ -30,11 +30,11 @@ The following are the competencies/prerequisites need to work on this project:
 
 
 ## Supported Devices
-- Raspberry Pi Pico W
-- ESP32-WROVER
-- ESP8266 
-- ESP32-S3-WROOM N8R8
-- ESP32-S-WROOM N16R8
+- [Raspberry Pi Pico W](https://www.amazon.ca/Freenove-Raspberry-Compatible-Pre-Soldered-Development/dp/B0BJ1PGZCX/ref=sr_1_7?sr=8-7)
+- [ESP32-WROVER](https://www.amazon.ca/Freenove-ESP32-WROVER-Compatible-Wireless-Detailed/dp/B0CJJHXD1W/ref=sr_1_5?sr=8-5)
+- [ESP8266](http://amazon.ca/Freenove-Included-Compatible-MicroPython-339-Page/dp/B0B6G266BL/ref=sr_1_4_sspa?sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [ESP32-S3-WROOM N8R8](http://amazon.ca/Freenove-ESP32-S3-WROOM-Compatible-Wireless-Detailed/dp/B0BMQ8F7FN/ref=sr_1_1_sspa?sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY)
+- [Raspberry Pi 3 A+](https://www.amazon.ca/Raspberry-Pi-3-Computer-Board/dp/B07KKBCXLY/ref=sr_1_3_sspa)
 
 
 

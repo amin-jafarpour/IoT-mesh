@@ -1,0 +1,6 @@
+Constrained Application Protocol (CoAP): HTTP-alike, asynchronous, over UDP, restful.
+
+Message Queuing Telemetry Transport (MQTT): publish-subscribe, over TCP, broker required. 
+
+WebSocket: client-server, over TCP, browser-friendly.
+
