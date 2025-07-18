@@ -41,6 +41,8 @@ The following are the competencies/prerequisites need to work on this project:
 - [esp-mdf](https://github.com/espressif/esp-mdf)
 - [esp-now](https://github.com/espressif/esp-now)
 - [esp-mesh-lite](https://github.com/espressif/esp-mesh-lite)
+- [arduino-esp](https://github.com/espressif/arduino-esp32)
 - [ESP-IDF Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)
+
 
 
