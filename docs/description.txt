@@ -4,3 +4,102 @@ Message Queuing Telemetry Transport (MQTT): publish-subscribe, over TCP, broker 
 
 WebSocket: client-server, over TCP, browser-friendly.
 
+Quick UDP Internet Connections (QUIC): transport layer protocol, built-in TLS, used by HTTP/3.
+
+Datagram Transport Layer Security (DTLS): TLS on UDP, real-time.
+
+Ephemeral Diffie-Hellman Over COSE (EDHOC): authenticated key exchange (AKE) protocol.
+
+Object Security for Constrained RESTful Environments (OSCORE): protocol to d to protect CoAP (Constrained Application Protocol) messages using end-to-end encryption.
+
+mbedTLS (formerly PolarSSL): TLS/SSL customized for IoT.
+
+wolfSSL: TLS/SSL for IoT.
+
+Real-Time Operating System (RTOS).
+
+Quick EMUlator (QEMU): emulator and virtualizer, emulates boards like Raspberry Pi, STM32.
+
+simavr: AVR microcontroller simulator.
+
+OpenIoT-SDK: SDK for Cortex-M.
+
+Gossip protocols/epidemic protocols: distributed systems, eventual consistency.
+
+Concise Binary Object Representation (CBOR):  binary serialization format for IoT.
+
+Protocol Buffers (Protobuf): language-neutral mechanism for serializing structured data, Strongly typed.
+
+MessagePack: binary serialization format. 
+
+gRPC-lite: lightweight Protobuf‑Lite runtime with gRPC.
+
+Espressif IoT Development Framework (ESP-IDF): Official open-source SDK expressif.
+
+FreeRTOS: real-time operating system (RTOS) kernel. 
+
+PlatformIO: cross-platform build system and IDE extension for IoT.
+
+Advanced Encryption Standard in Galois/Counter Mode (AES-GCM): combination of AES for confidentiality and 
+Galois field multiplication (GMAC) for authentication and integrity. 
+
+esp-Mesh: Wi-Fi-based mesh networking protocol for ESP32/ESP8266.
+
+ESP-NOW: connectionless peer-to-peer protocol for ESP32/ESP8266, operates at the Wi-Fi MAC layer. 
+
+ESP-MDF (Mesh Development Framework): Official high-level SDK for Wi-Fi-based mesh networks for
+ESP/ESP866.
+
+FlatBuffers: Serialization format.
+
+gRPC: RPC for Protocol Buffers (protobuf).
+
+Interface Definition Language (IDL): specification language used to describe the interfaces
+that software components expose;  It provides a language-agnostic way to define data types, 
+service methods, and APIs,  which can then be automatically translated into code 
+(stubs/skeletons) in multiple programming languages.
+
+Nanomsg: messaging library for distributed applications. 
+
+RabbitMQ: message broker implementing  Advanced Message Queuing Protocol (AMQP),
+used for reliable, asynchronous, and decoupled communication.
+
+AtomVM: lightweight BEAM for IoT. 
+
+TinyGo: Go compiler for IoT, 
+
+Real-Time Interrupt-driven Concurrency (RTIC): cy framework for building real-time embedded applications 
+in Rust.
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
+
+intermediate representation ("LLVM IR")
+
+LLVM JIT
+
+LLVM disassembler
+
+Application Binary Interface (ABI)
+
+OpenMP
+
+OpenCL
+
+GPIO, SPI, I2C, ADC, DAC, PWM, UART, CAN, RMT, I2S, etc.
+
+SPIFFS, FATFS, Wear Levelling, NVS
+
+
+

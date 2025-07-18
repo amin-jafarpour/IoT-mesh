@@ -29,4 +29,20 @@ FreeRTOS
 AtomVM
 TinyGo
 ust RTIC 
+WebRTC
+IMAP
+SMTP
+Zephyr OS
+FreeRTOS
+
+LwIP
+mDNS
+SNTP
+STM32
+MBED OS
+JTAG
+IPsec
+ESP-NOW
+Zigbee
+Interface Definition Language (IDL)
 
