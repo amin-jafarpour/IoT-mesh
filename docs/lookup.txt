@@ -28,13 +28,13 @@ RTOS
 FreeRTOS
 AtomVM
 TinyGo
-ust RTIC 
+RTIC 
+Interface Definition Language (IDL)
+
 WebRTC
 IMAP
 SMTP
 Zephyr OS
-FreeRTOS
-
 LwIP
 mDNS
 SNTP
@@ -44,5 +44,3 @@ JTAG
 IPsec
 ESP-NOW
 Zigbee
-Interface Definition Language (IDL)
-
