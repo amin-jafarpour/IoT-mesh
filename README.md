@@ -37,5 +37,8 @@ The following are the competencies/prerequisites need to work on this project:
 - [Raspberry Pi 3 A+](https://www.amazon.ca/Raspberry-Pi-3-Computer-Board/dp/B07KKBCXLY/ref=sr_1_3_sspa)
 
 
-
+## References
+- [esp-mdf](https://github.com/espressif/esp-mdf)
+- [esp-now](https://github.com/espressif/esp-now)
+- [esp-mesh-lite](https://github.com/espressif/esp-mesh-lite)
 
