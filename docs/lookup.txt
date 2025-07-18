@@ -24,4 +24,9 @@ FlatBuffers
 gRPC
 Nanomsg
 RabbitMQ
+RTOS
+FreeRTOS
+AtomVM
+TinyGo
+ust RTIC 
 
