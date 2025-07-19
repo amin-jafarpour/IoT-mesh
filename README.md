@@ -52,6 +52,7 @@ The following are the competencies/prerequisites need to work on this project:
 - [esp-rainmaker](https://github.com/espressif/esp-rainmaker)
 - [esp-qemu](https://github.com/espressif/qemu)
 - [esp-docs](https://github.com/espressif/esp-docs)
+- [Other Expressif Projects](https://github.com/espressif/.github/blob/main/profile/esp-projects.md)
 
 
 
