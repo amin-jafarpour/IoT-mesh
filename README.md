@@ -42,7 +42,18 @@ The following are the competencies/prerequisites need to work on this project:
 - [esp-now](https://github.com/espressif/esp-now)
 - [esp-mesh-lite](https://github.com/espressif/esp-mesh-lite)
 - [arduino-esp](https://github.com/espressif/arduino-esp32)
+- [esp-idf](https://github.com/espressif/esp-idf)
+- [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension)
 - [ESP-IDF Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)
+- [esp-protocols](https://github.com/espressif/esp-protocols)
+- [esp32-camera](https://github.com/espressif/esp32-camera)
+- [esp-adf](https://github.com/espressif/esp-adf)
+- [esp-rainmaker](https://github.com/espressif/esp-rainmaker)
+- [esp-qemu](https://github.com/espressif/qemu)
+- [esp-docs](https://github.com/espressif/esp-docs)
+
+
+
 
 
 
